@@ -1,22 +1,27 @@
 # Yo 😎
 
 I'm Adam, a creative digital/ web developer based in Scotland.
-- 🔭 Currently working on solo projects & rebuilding portfolio.
-- 🌱 Exploring new paths in multimedia including branding, photography, video & sound editing.
-- 🖥️ Rediscovering my programming roots and bringing new energy to old projects, motivation for new.
+- 🔭 My current priority is solo creative projects.
+- 🌱 Exploring paths in multimedia including branding, photography, video & sound editing.
+- 🖥️ Rediscovering my programming roots and evolving existing projects and new ideas.
 - 💬 Feel free to ask about upcoming projects for collaborations and hackathons.
-
+<br>
 <p align="center">
   <a href="https://adamj.link">
     <img src="https://img.shields.io/badge/🔗%20My%20Hub-Click%20Here-55e6a5?style=for-the-badge" alt="My Hub"/>
   </a>
 </p>
 
+> [!NOTE]
+> I am shutting down Aspartame Awareness (.org) for good.
+
+Yuka(.com) had helped create a petetition to ban Aspartame in the EU, which has over 400k signatures. In 2024 the FDA recognised aspartame as a carcinogenic substance. These milestones contributed to my decision, after over 10 years having asparatameawareness.org active, I feel it has done more than it was ever intended to do. I would rather focus on other projects. [The repo and all data will still be public on Github.]([https://pages.github.com/](https://github.com/uxillary/aspartameawareness))
+
 ## Latest 
-- Accessibility gaming, offline AI tool, AJ digital services, EP.
-- Working on improving: adamj.link, 404cache.net & hexlabs.app new courses. 
+- 2026 - Accessibility gaming, offline AI tool, music EP.
+- Always improving: adamj.link, 404cache.net & hexlabs.app new online courses. 
 - 2025 - Developing the Infinite Curios blog. TrayXMR windows application using Python. Maintenance Goblin PC Optimizer. Windows System Font Changer (free alternative), Published "Get Optimized" [buy](https://www.amazon.co.uk/dp/B0F9B2MN62).
-- 2024 - Built the AJ Studios portfolio site & blog. Revisited AspartameAwareness.org. Intermittent Fasting app. Neo QoL scripts. Training the Greg-AI voice model, primarily using Python and open-source methods. 
+- 2024 - Re-Built the AJ Studios portfolio site & blog. Revisited AspartameAwareness.org. Intermittent Fasting app. Neo QoL scripts. Training the Greg-AI voice model, primarily using Python and open-source methods. 
 
 ## Skills
 - 🎨 Web & App Design
