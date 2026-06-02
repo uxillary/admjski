@@ -89,7 +89,7 @@ I'm Adam, a creative digital/ web developer based in Scotland.
 ## Socials
 [<img src="https://img.shields.io/badge/🔗-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Logo" height="30">](https://github.com/uxillary)
 [<img src="https://img.shields.io/badge/🔗-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Logo" height="30">](https://x.com/admjski)
-[<img src="https://img.shields.io/badge/🔗-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Logo" height="30">](mailto:adam@ajstudios.dev)
+[<img src="https://img.shields.io/badge/🔗-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Logo" height="30">](mailto:adamjch@proton.me)
 [<img src="https://img.shields.io/badge/🔗-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Logo" height="30">](https://www.instagram.com/admjski/)
 [<img src="https://img.shields.io/badge/🔗-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Developer Logo" height="30">](https://developers.google.com/profile/u/adamski)
 [<img src="https://img.shields.io/badge/🔗-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo" height="30">](https://www.linkedin.com/in/admjski)
