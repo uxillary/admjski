@@ -15,7 +15,7 @@ I'm Adam, a creative digital/ web developer based in Scotland.
 > [!NOTE]
 > I am shutting down Aspartame Awareness (.org) for good.
 
-Yuka(.com) had helped create a petetition to ban Aspartame in the EU, which has over 400k signatures. In 2024 the FDA recognised aspartame as a carcinogenic substance. These milestones contributed to my decision, after over 10 years having asparatameawareness.org active, I feel it has done more than it was ever intended to do. I would rather focus on other projects. [The repo and all data will still be public on Github.]([https://pages.github.com/](https://github.com/uxillary/aspartameawareness))
+Yuka(.com) had helped create a petetition to ban Aspartame in the EU, which has over 400k signatures. In 2024 the FDA recognised aspartame as a carcinogenic substance. These milestones contributed to my decision, after over 10 years having asparatameawareness.org active, I feel it has done more than it was ever intended to do and would rather focus on other projects. The [Github repo](https://github.com/uxillary/aspartameawareness) and all site data will still be available public.
 
 ## Latest 
 - 2026 - Accessibility gaming, offline AI tool, music EP.
