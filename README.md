@@ -18,7 +18,7 @@ I'm Adam, a creative digital/ web developer based in Scotland.
 Yuka(.com) had helped create a petetition to ban Aspartame in the EU, which has over 400k signatures. In 2024 the FDA recognised aspartame as a carcinogenic substance. These milestones contributed to my decision, after over 10 years having asparatameawareness.org active, I feel it has done more than it was ever intended to do and would rather focus on other projects. The [Github repo](https://github.com/uxillary/aspartameawareness) and all site data will still be available public.
 
 ## Latest 
-- 2026 - Accessibility gaming, offline AI tool, music EP.
+- 2026 - Accessibility gaming, offline AI tool, music EP, AJ Digital Services launch.
 - Always improving: adamj.link, 404cache.net & hexlabs.app new online courses. 
 - 2025 - Developing the Infinite Curios blog. TrayXMR windows application using Python. Maintenance Goblin PC Optimizer. Windows System Font Changer (free alternative), Published "Get Optimized" [buy](https://www.amazon.co.uk/dp/B0F9B2MN62).
 - 2024 - Re-Built the AJ Studios portfolio site & blog. Revisited AspartameAwareness.org. Intermittent Fasting app. Neo QoL scripts. Training the Greg-AI voice model, primarily using Python and open-source methods. 
