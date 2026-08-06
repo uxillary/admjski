@@ -19,7 +19,7 @@ Yuka(.com) had helped create a petetition to ban Aspartame in the EU, which has 
 
 ## Latest 
 - 2026 - Accessibility gaming, offline AI tool, music EP, AJ Digital Services launch.
-- Always improving: adamj.link, 404cache.net & hexlabs.app new online courses. 
+- Always improving: personal portfolio/ hub, blog & online courses. 
 - 2025 - Developing the Infinite Curios blog. TrayXMR windows application using Python. Maintenance Goblin PC Optimizer. Windows System Font Changer (free alternative), Published "Get Optimized" [buy](https://www.amazon.co.uk/dp/B0F9B2MN62).
 - 2024 - Re-Built the AJ Studios portfolio site & blog. Revisited AspartameAwareness.org. Intermittent Fasting app. Neo QoL scripts. Training the Greg-AI voice model, primarily using Python and open-source methods. 
 
